@@ -10,5 +10,5 @@
 - 이러한 문제들을 해결하기 위해 자동으로 메모리를 관리하는 기능이 필요하게 되었다.
 
 3. 동작 매커니즘
-1) Reference counting (레퍼런스 카운팅)
-2) Generational garbage collection (세대별 가비지 컬렉션)
+1) Reference Counting (레퍼런스 카운팅)
+2) Generational Garbage Collection (세대별 가비지 컬렉션)
